@@ -13,4 +13,4 @@ To record my process of studying 2th edition CSAPP.
 
 * Phase 2: 1 2 4 8 16 32
 
-* Phase 3: 1 301
+* Phase 3: 1 311
