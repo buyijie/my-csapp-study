@@ -7,3 +7,10 @@ To record my process of studying 2th edition CSAPP.
 * [csapp student site](http://csapp.cs.cmu.edu/3e/students.html)
 * [Beej's quick guide to GDB](http://beej.us/guide/bggdb)
 * [Two-page x86-64 GDB cheat sheet](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)
+
+# Bomb Lab
+* Phase 1: Border relations with Canada have never been better.
+
+* Phase 2: 1 2 4 8 16 32
+
+* Phase 3: 1 301
