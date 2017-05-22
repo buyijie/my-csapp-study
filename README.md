@@ -19,3 +19,5 @@ To record my process of studying 2th edition CSAPP.
 * Phase 4: 1 0
 
 * Phase 5: )/.%&' (through a dictionary, ")/.%&'" is converted to "flyers")
+
+* Phase 6: 4 3 2 1 6 5
