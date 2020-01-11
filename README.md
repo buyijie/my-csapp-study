@@ -6,6 +6,7 @@ To record my process of studying 2th edition CSAPP.
 * [guide x86-64 from stanford cs107](https://web.stanford.edu/class/cs107/guide_x86-64.html)
 * [csapp student site](http://csapp.cs.cmu.edu/3e/students.html)
 * [Beej's quick guide to GDB](http://beej.us/guide/bggdb)
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
 * [Two-page x86-64 GDB cheat sheet](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)
 * [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
